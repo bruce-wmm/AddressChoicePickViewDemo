@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8B25DB2-4F21-4E27-9710-A8DBF73BC745</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AddressChoicePickViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9642438DC4C9DBDE1A9658455DC7AF720893F4A0</key>
+		<string>https://github.com/bruce-wmm/AddressChoicePickViewDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AddressChoicePickViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9642438DC4C9DBDE1A9658455DC7AF720893F4A0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bruce-wmm/AddressChoicePickViewDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9642438DC4C9DBDE1A9658455DC7AF720893F4A0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9642438DC4C9DBDE1A9658455DC7AF720893F4A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AddressChoicePickViewDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

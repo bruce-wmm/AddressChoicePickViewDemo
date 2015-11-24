@@ -22,6 +22,10 @@
 }
 - (IBAction)tapPress:(UITapGestureRecognizer *)sender {
     AddressChoicePickerView *addressPickerView = [[AddressChoicePickerView alloc]init];
+    
+    /***** chuan jdwl rwe r *****/
+    
+    
     addressPickerView.block = ^(AddressChoicePickerView *view,UIButton *btn,AreaObject *locate){
         self.addressLabel.text = [NSString stringWithFormat:@"%@",locate];
         self.addressLabel.textColor = [UIColor blackColor];
